@@ -1,0 +1,37 @@
+_repo: When-East-met-West_74958
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tuttle, W. C. (Wilbur C.)
+    aliases:
+    - Tuttle, Wilbur C.
+    - Tuttle, Wilbur Coleman
+    birthdate: 1883
+    deathdate: 1969
+    gutenberg_agent_id: '52836'
+    url: http://www.gutenberg.org/2009/agents/52836
+    wikipedia: https://en.wikipedia.org/wiki/W._C._Tuttle
+description: ''
+gutenberg_issued: '2024-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74958'
+language: en
+pgterms:marc905: 20241220021251tuttle
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bThe Ridgway Company, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Produced from the June 10, 1925 issue of The Blue Book Magazine.
+subjects:
+- !lcsh 'Animals -- Fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Simpkins, Magpie (Fictitious character) -- Fiction'
+- !lcsh 'Harper, Ike (Fictitious character) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: When East met West
+url: http://www.gutenberg.org/ebooks/74958
